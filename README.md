@@ -1,111 +1,96 @@
-<h1 align="center">⚡ Vitor dos Santos</h1>
-<h3 align="center">Quality Assurance Developer • Fullstack Developer • FiveM Systems</h3>
+# Vitor dos Santos
+
+### Quality Assurance Developer • Full Stack Developer
 
 <p align="center">
-  🚀 Clean Code • Performance • Automation • Multiplayer Systems
+Building reliable systems through quality, performance and automation.
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/664661372012855316">
-    <img src="https://img.shields.io/badge/Discord-Contato-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/vitor_santz6">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a href="https://github.com/santzcode">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-santzcode-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/664661372012855316">
+    <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 🧠 About Me
+## About
 
-Atualmente atuo como **Quality Assurance Developer na Hydra Software**, garantindo qualidade, estabilidade e confiabilidade em sistemas através de:
+Quality Assurance Developer with experience in software quality, backend development, automation, and scalable systems.
 
-- Testes manuais e automatizados  
-- Análise de falhas  
-- Validação de regras de negócio  
-- Controle de qualidade em produção  
+Focused on delivering reliable solutions through:
 
-Além disso, desenvolvo sistemas e scripts para **FiveM**, com foco em:
-
-- Performance
-- Segurança contra abuso/exploit
-- Estrutura escalável
-- Compatibilidade multi-framework (ESX / QBCore / Qbox)
+* Quality assurance and testing
+* Process automation
+* Backend architecture
+* Performance optimization
+* System reliability
 
 ---
 
-# 🎮 FiveM & Multiplayer Development
+## Tech Stack
 
-Desenvolvedor ativo no cenário RP, criando sistemas personalizados, HUDs, automações e integrações para servidores.
+### Frontend
 
-### Comunidade
-🔥 **Santz Community**  
-Comunidade focada em desenvolvimento, servidores RP e projetos multiplayer.  
-👉 Convite: https://
+* JavaScript
+* React
+* HTML5
+* CSS3
+* Tailwind CSS
 
-### Servidor
-🎭 **Unique Roleplay**  
-Servidor de roleplay estruturado com foco em organização, performance e experiência imersiva.  
-👉 Convite: https://
+### Backend
 
----
+* Node.js
+* Express
+* Python
+* REST APIs
+* Database Integration
 
-# 🛠 Core Stack
+### Development
 
-## 💻 Frontend
-- JavaScript
-- React
-- HTML5
-- CSS3
-- Tailwind
-- Interfaces NUI (FiveM)
+* Git & GitHub
+* Docker
+* CI/CD
+* Automated Testing
+* Software Quality Assurance
 
-## ⚙ Backend
-- Node.js
-- Express
-- Python
-- APIs REST
-- Integração com banco de dados
-- Sistemas de log e automação
+### Game Development
 
-## 🎮 Game Development
-- Lua (FiveM / RedM)
-- Sistemas anti-trigger
-- Webhooks estruturados
-- Scripts cross-framework
-- UI/UX para servidores RP
-
-## 🚀 DevOps & QA
-- Git & GitHub
-- Docker
-- Versionamento estruturado
-- Automação de testes
-- Controle de qualidade contínuo
+* Lua
+* FiveM Development
+* Multiplayer Systems
+* UI/NUI Development
+* Cross-framework Solutions
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santzcode&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santzcode&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=santzcode&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santzcode&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=santzcode&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-# 🎯 Professional Focus
+## Professional Interests
 
-- Engenharia de qualidade
-- Arquitetura backend escalável
-- Sistemas multiplayer performáticos
-- Segurança e confiabilidade
-- Crescimento técnico contínuo
+* Software Quality Engineering
+* Backend Development
+* System Architecture
+* Automation
+* Performance Optimization
+* Multiplayer Technologies
 
 ---
 
 <p align="center">
-  <sub>Building reliable systems with performance, quality and identity.</sub>
+  <sub>Focused on quality, scalability and continuous improvement.</sub>
 </p>
