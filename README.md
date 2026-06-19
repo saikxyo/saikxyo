@@ -7,10 +7,10 @@ Building reliable systems through quality, performance and automation.
 </p>
 
 <p align="center">
-  <a href="https://github.com/santzcode">
-    <img src="https://img.shields.io/badge/GitHub-santzcode-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/saikxyo">
+    <img src="https://img.shields.io/badge/GitHub-saikxyo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/664661372012855316">
+  <a href="https://discord.com/users/844016381393371136">
     <img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
